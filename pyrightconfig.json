@@ -1,0 +1,20 @@
+{
+  "include": ["shop"],
+  "exclude": ["**/node_modules", "**/__pycache__", "venv"],
+  "ignore": [],
+  "defineConstant": {},
+  "typeCheckingMode": "basic",
+  "useLibraryCodeForTypes": true,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Darwin",
+  "executionEnvironments": [
+    {
+      "root": "shop",
+      "pythonVersion": "3.11",
+      "pythonPlatform": "Darwin",
+      "extraPaths": ["shop"]
+    }
+  ]
+}
