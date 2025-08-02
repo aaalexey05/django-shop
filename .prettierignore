@@ -1,0 +1,46 @@
+# Django
+*.py
+migrations/
+__pycache__/
+
+# HTML templates (Django)
+*.html
+templates/
+
+# Virtual environment
+venv/
+env/
+
+# Database
+*.sqlite3
+*.db
+
+# Static files
+static/
+media/
+
+# Node modules
+node_modules/
+
+# Git
+.git/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local 
